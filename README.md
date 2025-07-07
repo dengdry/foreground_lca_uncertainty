@@ -31,20 +31,6 @@ This project is based on the following main packages:
 - `pandas`, `numpy`, `matplotlib` – Data processing & visualization
 ---
 
-## Installation
-
-Recommended Python version: 3.8 or above.
-
-```bash
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate   # Linux/macOS
-venv\Scripts\activate      # Windows
-
-# Install dependencies
-pip install -r requirements.txt
-```
----
 
 ## Example
 
